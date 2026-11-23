@@ -1,5 +1,4 @@
 # QUANTUM-TECHNOLOGIES
-# QUANTUM TECHNOLOGIES
 
 **Web Architecture & Digital Engineering Studio** · Bengaluru, India
 
